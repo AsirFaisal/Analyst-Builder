@@ -1,2 +1,2 @@
 # Analyst-Builder
-All SQL Solutions for Analyst builder Questions
+SQL Solutions for Analyst builder Questions
